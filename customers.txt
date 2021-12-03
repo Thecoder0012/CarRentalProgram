@@ -1,0 +1,4 @@
+PrivateCustomer{nameOfDriver='Mo', address='VanløseAlle 82', postNumber=2720, city='Cph', mobilePhone=43238112, phone=23252312, email='mostacks@gmail.com'}PrivateCustomer{driverLicenceNumber='AT003', driverSinceDate='2017/07/02'}
+PrivateCustomer{nameOfDriver='Anas', address='Tingvej 3', postNumber=2300, city='CPH S', mobilePhone=23492102, phone=34104932, email='anas@gmail.com'}PrivateCustomer{driverLicenceNumber='AT003', driverSinceDate='2015/06/05'}
+CompanyCustomer{nameOfDriver='Josuf', address='Fredrikssundvej 5', postNumber=2400, city='CPH NV', mobilePhone=82913022, phone=81724354, email='Josuf@gmail.com'}Company{companyName='Aps', companyAddress='Valbyvej', companyPhoneNumber=0, crn=912}
+CompanyCustomer{nameOfDriver='Kurt', address='Vesterbrogade', postNumber=2000, city='Cph', mobilePhone=23431243, phone=23423412, email='Kurt@gmail.com'}Company{companyName='Kurt aps', companyAddress='Østerbrogade', companyPhoneNumber=0, crn=242}

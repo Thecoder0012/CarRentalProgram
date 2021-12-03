@@ -1,0 +1,10 @@
+SportCar{
+brand='Audi
+model='asfdfuelType='sfa
+registrationNumber='afad
+registrationYearMonth=2323
+kmDriven=100
+*********************************************
+manualGear=true
+over200HP=true
+}

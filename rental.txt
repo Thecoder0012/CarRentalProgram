@@ -1,0 +1,6 @@
+Rental{fromDateAndTime='2020/07/06-00:00', toDateAndTime='2021/04/06-12:00', maxKm=5000, startKm=1000, car=
+luxuryCar{brand='Mercedes', model='S-CLASS', fuelType='B', registrationNumber='Ad52312', registrationYearMonth=2021, kmDriven=20000}Luxury{threeThousandCCM=3000, automaticGear=true, airCondition=true, cruiseControl=true, leatherSeats=true}, customer=
+PrivateCustomer{nameOfDriver='Mo', address='VanløseAlle 82', postNumber=2720, city='Cph', mobilePhone=43238112, phone=23252312, email='mostacks@gmail.com'}PrivateCustomer{driverLicenceNumber='AT003', driverSinceDate='2017/07/02'}}
+Rental{fromDateAndTime='34', toDateAndTime='34', maxKm=34, startKm=34, car=
+luxuryCar{brand='Mercedes', model='S-CLASS', fuelType='B', registrationNumber='Ad52312', registrationYearMonth=2021, kmDriven=20000}Luxury{threeThousandCCM=3000, automaticGear=true, airCondition=true, cruiseControl=true, leatherSeats=true}, customer=
+PrivateCustomer{nameOfDriver='Mo', address='VanløseAlle 82', postNumber=2720, city='Cph', mobilePhone=43238112, phone=23252312, email='mostacks@gmail.com'}PrivateCustomer{driverLicenceNumber='AT003', driverSinceDate='2017/07/02'}}
